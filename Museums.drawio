@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T01:37:14.946Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="8m15AGUKqhQ3Q5DyMTvQ" version="15.8.6" type="github"><diagram id="U6JIKXwPDBJGhzgOmtue" name="Page-1">1ZdRb5swEMc/DY+djE0YeWxZ0kVTtYdM2bMHF3ALGBlTyD79jmBIqFt106KKvDjnv+/s8+9OyHFYmLf3ipfpg4whcyiJW4d9cSilxPfxp1MOveK6gVESJWKjnYSt+A1DqFFrEUM1cdRSZlqUUzGSRQGRnmhcKdlM3fYym55a8gQsYRvxzFZ/ilinvRosyEn/CiJJh5NdYlZyPjgboUp5LJszia0cFiopdW/lbQhZR2/g0set31gdE1NQ6L8JCOrN873Y7W43yY/dOoRg3eY3tN/lmWe1ufBDXUGdV0d8si7iDngKODZSIbv+Kvow8Dn6QHcEcdhdkwoN25JH3WqDLYFaqvMMZy6alVbyaeS4QGUvC22KTrsNTDqgNLRv3tMd6WHfgcxBqwO6DAG+AW5aLjDT5lS+hWe09Kx0Qxg3HZOMO5+gomG4/gNjZjG+zUGJiP8fzJfobLgXgOlNWY7zM5gu/UiYngVzVStZwhWwpGRuMBd2Z1biGtqS+XND6Vsov0fAi6uguaBzo/nZbsz9lXwx/WBuMAML5jfAxxImQ0nIYyj4Tcgf8VjqZ5jL3S+FVtJZTxELlo5HikehP0FcW/jfAc6rsn+T7UXbFeljKvCiAB61C8DIKwUYxYtXYGlXADcim63rYqcTl7jdiMOaYQprSoZLz7vTp5yXrz20/Ms0Ok5PD+Xj2tn/Dbb6Aw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-29T01:59:07.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="gV3sz4PvRLERyzAFkoiY" version="15.8.6" type="github" pages="2">
+  <diagram id="U6JIKXwPDBJGhzgOmtue" name="Page-1">
+    <mxGraphModel dx="2066" dy="1186" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8uIvGiVVAIgTVFCe8Fxm-2" value="Museums around the world" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="160" y="80" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8uIvGiVVAIgTVFCe8Fxm-3" value="America" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8uIvGiVVAIgTVFCe8Fxm-4" value="Europe" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8uIvGiVVAIgTVFCe8Fxm-5" value="Asia" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8uIvGiVVAIgTVFCe8Fxm-6" value="Oceania" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8uIvGiVVAIgTVFCe8Fxm-7" value="Africa" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="680" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8uIvGiVVAIgTVFCe8Fxm-8" value="Kenneth Cadena-Cajas&lt;br&gt;kc389@njit.edu" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="80" y="420" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8uIvGiVVAIgTVFCe8Fxm-9" value="KC IS117 101 11/30/2021" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="60" y="980" width="560" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wLj20kEeFqnuxwplv_1d" name="Page-2">
+    <mxGraphModel dx="2066" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="UlYuMD4vkO-FiwdAxQB5-0" />
+        <mxCell id="UlYuMD4vkO-FiwdAxQB5-1" parent="UlYuMD4vkO-FiwdAxQB5-0" />
+        <mxCell id="UlYuMD4vkO-FiwdAxQB5-2" value="America" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" vertex="1" parent="UlYuMD4vkO-FiwdAxQB5-1">
+          <mxGeometry x="50" y="60" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UlYuMD4vkO-FiwdAxQB5-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=20;strokeWidth=5;" vertex="1" parent="UlYuMD4vkO-FiwdAxQB5-1">
+          <mxGeometry x="130" y="120" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UlYuMD4vkO-FiwdAxQB5-4" value="North America" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" vertex="1" parent="UlYuMD4vkO-FiwdAxQB5-1">
+          <mxGeometry x="45" y="250" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UlYuMD4vkO-FiwdAxQB5-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=20;strokeWidth=5;" vertex="1" parent="UlYuMD4vkO-FiwdAxQB5-1">
+          <mxGeometry x="120" y="310" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UlYuMD4vkO-FiwdAxQB5-6" value="Central America" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" vertex="1" parent="UlYuMD4vkO-FiwdAxQB5-1">
+          <mxGeometry x="45" y="540" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UlYuMD4vkO-FiwdAxQB5-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=20;strokeWidth=5;" vertex="1" parent="UlYuMD4vkO-FiwdAxQB5-1">
+          <mxGeometry x="120" y="600" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UlYuMD4vkO-FiwdAxQB5-8" value="South America" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" vertex="1" parent="UlYuMD4vkO-FiwdAxQB5-1">
+          <mxGeometry x="45" y="790" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UlYuMD4vkO-FiwdAxQB5-9" value="United States" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" vertex="1" parent="UlYuMD4vkO-FiwdAxQB5-1">
+          <mxGeometry x="310" y="200" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UlYuMD4vkO-FiwdAxQB5-10" value="Canada" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" vertex="1" parent="UlYuMD4vkO-FiwdAxQB5-1">
+          <mxGeometry x="310" y="280" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UlYuMD4vkO-FiwdAxQB5-11" value="Mexico" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=5;" vertex="1" parent="UlYuMD4vkO-FiwdAxQB5-1">
+          <mxGeometry x="310" y="360" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
